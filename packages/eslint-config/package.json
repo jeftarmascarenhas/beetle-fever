@@ -1,0 +1,16 @@
+{
+  "name": "@beetlefever/eslint-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jeff Mascarenhas <jeftarmascarenhas@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-next": "^12.1.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.0.0",
+    "eslint-plugin-react": "^7.29.2"
+  }
+}
