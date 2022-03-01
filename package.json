@@ -1,0 +1,16 @@
+{
+  "name": "beetlefever",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jeff Mascarenhas <jeftarmascarenhas@hotmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {},
+  "devDependencies": {
+    "@beetlefever/eslint-config": "*"
+  },
+  "dependencies": {}
+}
