@@ -2,6 +2,13 @@
 
 This project is a monorepo that includes following packages:
 
+## Install Dependencies
+
+If your module dependency is global you need install using:
+Ex: `yarn add typescript -DW`
+
+If not a global dependency you need install the modules from package to package
+
 ## Packages
 
 Each package has its own README.md with instructions.

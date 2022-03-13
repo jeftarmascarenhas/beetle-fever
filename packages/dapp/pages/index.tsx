@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import HomeInstitutional from '../presentation/modules/home/screen/institutional'
+import HomeInstitutional from '@/home/screens/institutional/institutional'
 
 export default function Home() {
   return (
